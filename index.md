@@ -5,3 +5,5 @@ LI - Chief Engineer: The second most important crewman, as he oversees diving op
 * oldest crew member besides the captain
 * second most important crew man
 * quiet
+
+> Who says you can't make something out of nothing?
